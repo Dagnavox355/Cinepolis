@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fff">
+  <title>Cuenta · Proyecto independiente</title>
+  <style>
+    :root{font-family:Inter,"Segoe UI",Arial,sans-serif;color:#192c54;background:#fff;font-synthesis:none;text-rendering:optimizeLegibility}*{box-sizing:border-box}body{margin:0;min-height:100vh}.auth-backdrop{min-height:100vh;display:grid;place-items:center;padding:24px;background:#fff}.auth-panel{position:relative;width:min(100%,800px);min-height:100vh;margin:0 auto;padding:70px clamp(24px,10vw,96px) 42px;display:flex;flex-direction:column;align-items:stretch;text-align:center}.auth-close{position:absolute;right:0;top:20px;width:50px;height:50px;border:1px solid #477cf5;border-radius:10px;background:white;color:#477cf5;font-size:28px;cursor:pointer}.auth-eyebrow{margin:0 0 14px;color:#25406d;font-size:13px;font-weight:750;letter-spacing:.04em}.auth-panel h1{margin:0 auto 8px;font-size:clamp(27px,4vw,42px);line-height:1.18;color:#192c54}.club-brand{display:flex;align-items:baseline;justify-content:center;gap:14px;margin:0 auto 48px;line-height:1;white-space:nowrap}.club-brand span{font-size:clamp(36px,6vw,54px);font-weight:350;letter-spacing:.02em;background:linear-gradient(90deg,#ff6a4d,#ffad00);background-clip:text;color:transparent}.club-brand strong{font-size:clamp(36px,6vw,54px);font-weight:850;letter-spacing:-.06em;color:#142750}.auth-intro{font-size:21px;line-height:1.4;color:#344e79;margin:0 auto 24px;max-width:560px}.auth-options{display:grid;gap:16px}.auth-options[hidden],.auth-form[hidden],.auth-form label[hidden],.auth-exit-confirm[hidden]{display:none}.auth-form{display:grid;gap:18px;text-align:left}.auth-form label{display:grid;gap:8px;color:#24406d;font-size:16px;font-weight:600}.auth-form input{width:100%;height:74px;border:1.5px solid #2455a7;border-radius:14px;padding:16px;font:inherit;font-size:19px;color:#172849;outline:none}.auth-form input:focus{border-color:#477cf5;box-shadow:0 0 0 3px #477cf533}.auth-submit{min-height:64px;border:0;border-radius:15px;padding:14px 20px;background:#477cf5;color:#fff;font:inherit;font-size:19px;font-weight:800;cursor:pointer}.auth-submit:hover{background:#376be2}.auth-submit:disabled{opacity:.65;cursor:wait}.auth-outline{background:#fff;color:#477cf5;border:1px solid #477cf5}.auth-link{border:0;background:transparent;color:#477cf5;font:inherit;font-size:18px;font-weight:750;padding:10px;cursor:pointer}.auth-separator{margin:26px auto 0;font-size:20px;color:#111}.auth-create-copy,.auth-link-copy{font-size:19px;line-height:1.35;color:#171a22;margin:0 auto 6px;max-width:600px}.auth-options hr{width:100%;border:0;border-top:1px solid #b4bdca;margin:48px 0 12px}.auth-status{min-height:22px;margin:12px 0 0;font-size:15px;line-height:1.4;color:#526078}.auth-status.error{color:#b42318}.auth-status.success{color:#167447}.auth-note{margin:26px 0 0;padding-top:17px;border-top:1px solid #d9e0eb;color:#657087;font-size:13px;line-height:1.5}.auth-exit-confirm{display:grid;gap:18px;text-align:center}.auth-exit-confirm h2{margin:0 0 28px;font-size:clamp(23px,3vw,31px);line-height:1.22;color:#192c54}.auth-panel.confirming{width:min(550px,calc(100vw - 24px));min-height:auto;padding:48px clamp(24px,8vw,52px)}.auth-panel.confirming>.auth-eyebrow,.auth-panel.confirming>#authTitle,.auth-panel.confirming>.club-brand,.auth-panel.confirming>.auth-intro,.auth-panel.confirming>#authStatus,.auth-panel.confirming>.auth-note,.auth-panel.confirming>.auth-home,.auth-panel.confirming>.auth-close{display:none}.auth-home{position:absolute;top:34px;left:0;color:#477cf5;font-size:14px;font-weight:700;text-decoration:none}.auth-home:hover{text-decoration:underline}
+    @media(max-width:600px){.auth-backdrop{padding:0}.auth-panel{min-height:100vh;padding:76px 26px 30px}.auth-close{top:16px;right:18px;width:48px;height:48px}.club-brand{gap:9px;margin-bottom:38px}.auth-intro,.auth-create-copy,.auth-link-copy{font-size:18px}.auth-options{gap:12px}.auth-options .auth-submit{min-height:62px}.auth-options hr{margin:40px 0 8px}.auth-exit-confirm{gap:14px}.auth-exit-confirm h2{margin-bottom:20px}.auth-panel.confirming{padding:42px 26px}.auth-home{top:26px;left:20px}}
+  </style>
+</head>
+<body data-page="account">
+  <main class="auth-backdrop open" id="authBackdrop" aria-hidden="false">
+    <section class="auth-panel" aria-labelledby="authTitle">
+      <a class="auth-home" href="/" aria-label="Regresar a la página de inicio">← Inicio</a>
+      <button class="auth-close" id="authClose" type="button" aria-label="Cerrar y volver al inicio">×</button>
+      <p class="auth-eyebrow">CUENTA DE ESTE SITIO</p>
+      <h1 id="authTitle">Inicia sesión o crea una cuenta</h1>
+      <div class="club-brand" aria-label="Marca de referencia de la experiencia de cine"><span>CLUB</span><strong>cinépolis</strong></div>
+      <p class="auth-intro" id="authIntro">Elige cómo quieres continuar.</p>
+      <div class="auth-options" id="authOptions">
+        <button class="auth-submit" type="button" data-account-mode="sign-in">Inicia sesión</button>
+        <div class="auth-separator">o</div>
+        <p class="auth-create-copy">Crea una cuenta para comenzar a disfrutar los beneficios de este sitio.</p>
+        <button class="auth-submit auth-outline" type="button" data-account-mode="sign-up">Crea tu cuenta</button>
+        <hr>
+        <p class="auth-link-copy">Si ya tienes una membresía de este sitio, puedes vincularla.</p>
+        <button class="auth-link" type="button" data-account-mode="link">Vincular cuenta</button>
+      </div>
+      <form class="auth-form" id="authForm" hidden>
+        <label id="nameField" hidden>Nombre<input name="name" autocomplete="name" maxlength="80"></label>
+        <label>Correo electrónico<input name="email" type="text" inputmode="email" autocomplete="email" autocapitalize="none" spellcheck="false" required maxlength="254"></label>
+        <label id="passwordField" hidden>Contraseña<input name="password" type="password" autocomplete="new-password" minlength="8"></label>
+        <label id="codeField" hidden>Código de acceso<input name="code" type="text" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6}" maxlength="6"></label>
+        <button class="auth-submit" id="authSubmit" type="submit">Enviar código</button>
+        <button class="auth-link" id="authBack" type="button">Volver</button>
+      </form>
+      <div class="auth-exit-confirm" id="authExitConfirm" hidden>
+        <h2>¿Estás seguro de que deseas abandonar el proceso?</h2>
+        <button class="auth-submit" id="authContinue" type="button">Continuar el proceso</button>
+        <button class="auth-submit auth-outline" id="authAbandon" type="button">Abandonar proceso</button>
+      </div>
+      <p class="auth-status" id="authStatus" aria-live="polite"></p>
+    </section>
+  </main>
+  <a id="accountButton" href="/" hidden aria-hidden="true" tabindex="-1">Inicio</a>
+  <script type="module" src="/src/account-demo.js"></script>
+</body>
+</html>

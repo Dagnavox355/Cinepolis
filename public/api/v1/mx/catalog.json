@@ -1,0 +1,247 @@
+{
+  "country": "MX",
+  "updatedAt": "2026-10-19",
+  "source": "https://cinepolis.com/mx?country=mx",
+  "sourceType": "public page snapshot",
+  "isLive": false,
+  "notice": "Snapshot de títulos observados en el sitio público de Cinépolis México el 19 de octubre de 2026. No incluye horarios en tiempo real ni disponibilidad por complejo.",
+  "cities": [
+    "Acámbaro",
+    "Acapulco",
+    "Aguascalientes",
+    "Campeche",
+    "Cancún",
+    "CDMX",
+    "Celaya",
+    "Chihuahua",
+    "Guadalajara",
+    "Hermosillo",
+    "León",
+    "Mérida",
+    "Mexicali",
+    "Monterrey",
+    "Morelia",
+    "Oaxaca",
+    "Puebla",
+    "Querétaro",
+    "San Luis Potosí",
+    "Tijuana",
+    "Toluca",
+    "Veracruz"
+  ],
+  "movies": [
+    {
+      "id": "street-fighter",
+      "title": "Street Fighter",
+      "rating": "B",
+      "releaseDate": "2026-10-15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "poster": "/images/street-fighter.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/StreetFighter/Es/sf_desktop_poster_720x1022_2.jpg"
+    },
+    {
+      "id": "la-caida-de-la-ballena",
+      "title": "La caída de la ballena",
+      "rating": "B",
+      "releaseDate": "2026-10-15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "poster": "/images/la-caida-de-la-ballena.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/LaCaidaDeLaBallena/Es/19_Poster_720x1022px__5.jpg"
+    },
+    {
+      "id": "el-laberinto-del-fauno",
+      "title": "El laberinto del fauno · 20 aniversario",
+      "rating": "B15",
+      "releaseDate": "2026-10-15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "poster": "/images/pans-labyrinth.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/ElLaberintoDelFauno/Es/Poster_WEB_Desktop_720x1022px_43__2.jpg"
+    },
+    {
+      "id": "el-corazon-de-la-bestia",
+      "title": "El corazón de la bestia",
+      "rating": "B",
+      "releaseDate": "2026-09-24",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "poster": "/images/corazon-de-la-bestia.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/ElCorazonDeLaBestia/Es/720x1022_24.jpg"
+    },
+    {
+      "id": "la-isla-de-las-munecas",
+      "title": "La isla de las muñecas",
+      "rating": "B",
+      "status": "coming-soon",
+      "statusLabel": "Próximamente",
+      "poster": "/images/la-isla-de-las-munecas.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/LaIslaDeLasMunecas/Es/IDLM_Poster_720X1022_2.jpg"
+    },
+    {
+      "id": "super-canino",
+      "title": "Súper Canino",
+      "rating": "A",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "poster": "/images/super-canino.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/SuperCanino/Es/Poster_720x1022_2.jpg"
+    },
+    {
+      "id": "resident-evil-noche-cero",
+      "title": "Resident Evil: Noche Cero",
+      "rating": "B15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/ResidentEvilNocheCero/Es/RE_720x1022_2.jpg"
+    },
+    {
+      "id": "cristiada",
+      "title": "Cristiada",
+      "rating": "B",
+      "releaseDate": "2026-10-15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "poster": "/images/cristiada.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/Cristiada/Es/Poster_WEB_Desktop_720x1022px_2.jpg"
+    },
+    {
+      "id": "coyote-vs-acme",
+      "title": "Coyote vs Acme",
+      "rating": "A",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/CoyoteVsAcme/Es/Poster_720x1022_2.jpg"
+    },
+    {
+      "id": "sacrificio-los-elegidos",
+      "title": "Sacrificio: Los elegidos",
+      "rating": "B",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/SacrificioLosElegidos/Es/Poster_720x1022_S_2.jpg"
+    },
+    {
+      "id": "clayface",
+      "title": "Clayface",
+      "rating": "C",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/Clayface/Es/P_720X1022_5.jpg"
+    },
+    {
+      "id": "verity-la-sombra-de-un-engano",
+      "title": "Verity: La sombra de un engaño",
+      "rating": "B15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/VerityLaSombraDeUnEngano/Es/VRTY_2026_Desktop_Cinepolis_Poster_720x1022_2.jpg"
+    },
+    {
+      "id": "digger",
+      "title": "Digger",
+      "rating": "B15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/Digger/Es/720x1022_28.jpg"
+    },
+    {
+      "id": "madre-siniestra",
+      "title": "Madre siniestra",
+      "rating": "B",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/MadreSiniestra/Es/20_Po_ster_720x1022px__2.jpg"
+    },
+    {
+      "id": "tu-nombre",
+      "title": "Tu nombre",
+      "rating": "TBC",
+      "status": "coming-soon",
+      "statusLabel": "Próximamente",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/TuNombre/Es/Poster_WEB_Desktop_720x1022px_35__2.jpg"
+    },
+    {
+      "id": "hope-el-primer-impacto",
+      "title": "Hope: El primer impacto",
+      "rating": "B15",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/HopeElPrimerImpacto/Es/HOPE_Cinepolis_MX_DESKTOP_720_x_1022_2.jpg"
+    },
+    {
+      "id": "un-mal-partido",
+      "title": "Un mal partido",
+      "rating": "TBC",
+      "status": "coming-soon",
+      "statusLabel": "Próximamente",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/UnMalPartido/Es/19_Poster_720x1022px__5.jpg"
+    },
+    {
+      "id": "el-bosque-salvaje-wildwood",
+      "title": "El bosque salvaje: Wildwood",
+      "rating": "TBC",
+      "status": "coming-soon",
+      "statusLabel": "Próximamente",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/ElBosqueSalvajeWildwood/Es/Wildwood_720x1022_2.jpg"
+    },
+    {
+      "id": "el-arbol-magico",
+      "title": "El árbol mágico",
+      "rating": "A",
+      "status": "showing",
+      "statusLabel": "En cartelera",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/ElArbolMagico/Es/720_copia_2_.jpg"
+    },
+    {
+      "id": "godzilla-minus-zero",
+      "title": "Godzilla Minus Zero",
+      "rating": "TBC",
+      "releaseDate": "2026-11-05",
+      "status": "presale",
+      "statusLabel": "Preventa",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/GodzillaMinusZero/Es/Poster_720x1022_Godzilla_5ago1_2.jpg"
+    },
+    {
+      "id": "la-venganza-del-charro-negro",
+      "title": "La venganza del Charro Negro",
+      "rating": "TBC",
+      "releaseDate": "2026-10-22",
+      "status": "coming-soon",
+      "statusLabel": "Próximamente",
+      "poster": "/images/charro-negro.png",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/LaVenganzaDelCharroNegro/Es/720x1022_copia_5.jpg"
+    },
+    {
+      "id": "avengers-doomsday",
+      "title": "Avengers: Doomsday",
+      "rating": "TBC",
+      "releaseDate": "2026-12-17",
+      "status": "coming-soon",
+      "statusLabel": "Próximamente",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/AvengersDoomsday/Es/19_Poster_720x1022px_2_2.jpg"
+    },
+    {
+      "id": "avengers-endgame-bonus",
+      "title": "Avengers: Endgame Bonus",
+      "rating": "TBC",
+      "status": "special-event",
+      "statusLabel": "Evento especial",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/AvengersEndgameBonus/Es/19_Poster_720x1022px__5.jpg"
+    },
+    {
+      "id": "trivia-night-avengers-doomsday",
+      "title": "Trivia Night: Avengers: Doomsday",
+      "rating": "TBC",
+      "releaseDate": "2026-12-15",
+      "status": "special-event",
+      "statusLabel": "Evento especial",
+      "posterUrl": "https://pimcore-content.cinepolis.com/assets/Mexico/Tickets/Movies/TriviaNightAvengersDoomsday/Es/720x1022_copia_2__7.jpg"
+    }
+  ],
+  "showtimes": {
+    "status": "requires-theater-selection",
+    "items": []
+  }
+}

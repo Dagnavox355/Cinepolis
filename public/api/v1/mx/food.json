@@ -1,0 +1,258 @@
+{
+  "country": "MX",
+  "source": "https://cinepolis.com/mx/solo-alimentos?country=mx",
+  "sourceType": "public page snapshot",
+  "updatedAt": "2026-10-19",
+  "isLive": false,
+  "notice": "Productos e imágenes de referencia observados en el sitio público de Cinépolis México. Precios, existencia y selección por cine dependen del sitio oficial.",
+  "categories": [
+    {
+      "name": "Nuevos lanzamientos",
+      "slug": "nuevos-lanzamientos",
+      "products": [
+        {
+          "name": "Hot Dog Doritos",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/hot-dog-doritos-promotional.jpg"
+        },
+        {
+          "name": "Hot Dog Chips Jalapeño",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/hot-dog-chips-promotional.png"
+        },
+        {
+          "name": "M&M Mega Peanut Butter",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/m&ms-mega-peanuts-tr-promotional.jpg"
+        },
+        {
+          "name": "Solero Paradise",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/solero-trad-promotional.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Combos",
+      "slug": "combos",
+      "products": [
+        {
+          "name": "Combo Personalizado",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/ComboPersonalizadollevar-promotional.jpg"
+        },
+        {
+          "name": "Combo Clásico",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/combo_clasico_promotional.png"
+        },
+        {
+          "name": "Combo Nachos en Pareja",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/atmosfera/combo_nachos_pareja_promotional.png"
+        },
+        {
+          "name": "Combo Junior",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/combo_junior_promotional.png"
+        },
+        {
+          "name": "Combo Ciel",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/combo_ciel_promotional.jpg"
+        },
+        {
+          "name": "Combo Cuates",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/combo_cuates_promotional.png"
+        },
+        {
+          "name": "Combo Nachos",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/combo_nachos_promotional.png"
+        },
+        {
+          "name": "Combo Cornetto",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/combo_cornetto_promotional.png"
+        }
+      ]
+    },
+    {
+      "name": "Clásicos",
+      "slug": "clasicos",
+      "products": [
+        {
+          "name": "Nachos",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/vip/nachos-d-vip-promotional.png"
+        },
+        {
+          "name": "Refresco",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/refrescos_promotional.png"
+        },
+        {
+          "name": "Palomitas",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/palomitas_jumbo_promotional.png"
+        },
+        {
+          "name": "Hot Dog Individual",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/hot_dog_promotional.png"
+        },
+        {
+          "name": "Agua Embotellada",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/agua_promotional.png"
+        },
+        {
+          "name": "ICEE",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/icee-tajin-trad-promotional.png"
+        }
+      ]
+    },
+    {
+      "name": "Para compartir",
+      "slug": "para-compartir",
+      "products": [
+        {
+          "name": "Maxicombo Personalizado Jumbo",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/armatu-maxicombo-promotional.png"
+        },
+        {
+          "name": "Maxicombo Personalizado para llevar",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/MComboPersonalizadollevar-promotional.jpg"
+        },
+        {
+          "name": "Maxicombo Familiar Jumbo",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/MC_familiar_jumbo_promotional.png"
+        },
+        {
+          "name": "Maxicombo Familiar",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/MAXICOMBO FAMILIAR_LLEVAR_PROMO.png"
+        },
+        {
+          "name": "Maxicombo Micha Mix",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/maxi_combo_micha_mix_promotional.png"
+        },
+        {
+          "name": "Maxicombo Mix",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/maxi_combo_mix_promotional.png"
+        },
+        {
+          "name": "Maxicombo M&M's para llevar",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/maxi_combo_m&m_promotional.png"
+        },
+        {
+          "name": "Maxicombo M&M's Jumbo",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/Maxicombo_m&m_jumbo_promotional.png"
+        }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "slug": "snacks",
+      "products": [
+        {
+          "name": "Hot Dog Takis",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/hot_dog_takis_promotional.png"
+        },
+        {
+          "name": "Papas Fritas",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/papas_fritas_promotional.png"
+        },
+        {
+          "name": "Extra Queso",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/extra_queso_promotional.png"
+        },
+        {
+          "name": "Extra Guacamole",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/guacamole_promotional.png"
+        }
+      ]
+    },
+    {
+      "name": "Helados",
+      "slug": "helados",
+      "products": [
+        {
+          "name": "Cornetto",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/cornetto_promotional.png"
+        },
+        {
+          "name": "Magnum",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/magnum_clasica_promotional.png"
+        },
+        {
+          "name": "Mordisko Oreo",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/mordisko_oreo_promotional.png"
+        },
+        {
+          "name": "Helado Micha",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/micha_promotional.png"
+        }
+      ]
+    },
+    {
+      "name": "Dulces y chocolates",
+      "slug": "dulces",
+      "products": [
+        {
+          "name": "Milky Way",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/milkyway_promotional.png"
+        },
+        {
+          "name": "Hershey's Cookies and Cream",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/atmosfera/hershey_promotional.png"
+        },
+        {
+          "name": "Skittles Pouch",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/skkitles_pouch_promotional.png"
+        },
+        {
+          "name": "Hershey's Cookies and Cream King Size",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/hersheys_king_promotional.png"
+        },
+        {
+          "name": "Pon Pons",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/ponpons_promotional.png"
+        },
+        {
+          "name": "Lifesavers",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/lifesavers_promotional.png"
+        },
+        {
+          "name": "Skwinkles Chunks Sandía",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/skwinkles_chunks_sandia_promotional.png"
+        },
+        {
+          "name": "Snickers",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/snickers_promotional.png"
+        }
+      ]
+    },
+    {
+      "name": "Promocionales",
+      "slug": "promocionales",
+      "products": [
+        {
+          "name": "Vaso 3D Supergirl",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/vaso-upergirl-promotional.png"
+        },
+        {
+          "name": "Palomera 3D Krypto",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/palomera-supergirl-promotional.png"
+        },
+        {
+          "name": "Palomera Minions con palomitas",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/Palomera-Minion-promotional.png"
+        },
+        {
+          "name": "Vaso Moana",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/Vaso-Moana-promotional.png"
+        },
+        {
+          "name": "Vaso Minions 3",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/Vaso-minion3-promotional.png"
+        },
+        {
+          "name": "Palomera Masters of the Universe",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/Palomera-masteroftheuniverse-promotional.png"
+        },
+        {
+          "name": "Palomera The Devil Wears Prada 2",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/palomera_devils_wears_prada_promotional.png"
+        },
+        {
+          "name": "Vaso 3D Michael con bebida",
+          "image": "https://foods-static-content.cinepolis.com/redesign/MX/menus/tradicional/vaso_diamond_michael_promotional.png"
+        }
+      ]
+    }
+  ]
+}

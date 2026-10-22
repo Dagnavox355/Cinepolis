@@ -1,0 +1,24 @@
+{
+  "name": "cinemarea-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "start": "node server.mjs",
+    "smoke:db": "node scripts/smoke-db.mjs",
+    "smoke:auth": "node scripts/smoke-auth.mjs",
+    "smoke:storage": "node scripts/smoke-storage.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1153.0",
+    "@neon/config": "^1.9.2",
+    "@neon/env": "^1.6.3",
+    "@neondatabase/auth": "^0.6.0-beta",
+    "@neondatabase/serverless": "^1.2.0",
+    "dotenv": "^18.0.8"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
